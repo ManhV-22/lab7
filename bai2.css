@@ -1,0 +1,17 @@
+
+label{
+    display: inline-block;
+    width: 150px;
+}
+div.box-list{
+    border: 1px solid #333;
+}
+table{
+    width: 100%;
+    border: 1px solid #fff;
+    border-collapse: collapse;
+}
+tr{
+    background-color: #a5a2a2;
+    border-bottom: 2px solid #fff;
+}
